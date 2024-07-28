@@ -29,7 +29,7 @@ echo           \_           \_           _/
 echo             \___         \_________/
 echo                 \________/
 echo.
-echo FlappyBird foi instalado com sucesso! Aproveite!
+echo FlappyPyrd foi instalado com sucesso! Aproveite!
 echo Para rodar: Clique duplo no arquivo run.bat
 echo Para jogar: Pressione ENTER
 echo.

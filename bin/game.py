@@ -6,7 +6,7 @@ from chao import Chao
 from properties import FONTE_PONTOS, IMAGEM_BACKGROUND, TELA_ALTURA, TELA_LARGURA   
 
 def main():
-    pygame.display.set_caption(title="FlappyBird")
+    pygame.display.set_caption(title="FlappyPyrd")
     pygame.display.set_icon(pygame.image.load("bin/assets/bird2.png"))
 
     passaros = [Passaro(230, 350)]
