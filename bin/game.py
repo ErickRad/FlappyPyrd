@@ -8,7 +8,7 @@ from properties import FONTE_PONTOS, IMAGEM_BACKGROUND, TELA_ALTURA, TELA_LARGUR
 def main():
     
     pygame.display.set_caption(title="FlappyPyrd")
-    pygame.display.set_icon(pygame.image.load("bin/assets/bird2.png"))
+    pygame.display.set_icon(pygame.image.load("assets/bird2.png"))
 
     passaros = [Passaro(230, 350)]
     chao = Chao(730)

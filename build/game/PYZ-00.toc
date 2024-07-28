@@ -161,11 +161,11 @@
    'PYMODULE'),
   ('cano',
    'C:\\Users\\erick\\OneDrive\\Documentos\\Python '
-   'Projects\\FlappyPyrd\\dist\\bin\\cano.py',
+   'Projects\\FlappyPyrd\\bin\\cano.py',
    'PYMODULE'),
   ('chao',
    'C:\\Users\\erick\\OneDrive\\Documentos\\Python '
-   'Projects\\FlappyPyrd\\dist\\bin\\chao.py',
+   'Projects\\FlappyPyrd\\bin\\chao.py',
    'PYMODULE'),
   ('cmd',
    'C:\\Users\\erick\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\cmd.py',
@@ -983,7 +983,7 @@
    'PYMODULE'),
   ('passaro',
    'C:\\Users\\erick\\OneDrive\\Documentos\\Python '
-   'Projects\\FlappyPyrd\\dist\\bin\\passaro.py',
+   'Projects\\FlappyPyrd\\bin\\passaro.py',
    'PYMODULE'),
   ('pathlib',
    'C:\\Users\\erick\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
@@ -1032,7 +1032,7 @@
    'PYMODULE'),
   ('properties',
    'C:\\Users\\erick\\OneDrive\\Documentos\\Python '
-   'Projects\\FlappyPyrd\\dist\\bin\\properties.py',
+   'Projects\\FlappyPyrd\\bin\\properties.py',
    'PYMODULE'),
   ('py_compile',
    'C:\\Users\\erick\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',

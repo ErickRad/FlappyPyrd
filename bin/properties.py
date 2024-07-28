@@ -1,12 +1,12 @@
 import pygame
 
-IMAGEM_CANO = pygame.transform.scale2x(pygame.image.load("bin/assets/pipe.png"))
-IMAGEM_CHAO = pygame.transform.scale2x(pygame.image.load("bin/assets/base.png"))
-IMAGEM_BACKGROUND = pygame.transform.scale2x(pygame.image.load("bin/assets/bg.png"))
+IMAGEM_CANO = pygame.transform.scale2x(pygame.image.load("assets/pipe.png"))
+IMAGEM_CHAO = pygame.transform.scale2x(pygame.image.load("assets/base.png"))
+IMAGEM_BACKGROUND = pygame.transform.scale2x(pygame.image.load("assets/bg.png"))
 IMAGENS_PASSARO = [
-    pygame.transform.scale2x(pygame.image.load("bin/assets/bird1.png")),
-    pygame.transform.scale2x(pygame.image.load("bin/assets/bird2.png")),
-    pygame.transform.scale2x(pygame.image.load("bin/assets/bird3.png")),
+    pygame.transform.scale2x(pygame.image.load("assets/bird1.png")),
+    pygame.transform.scale2x(pygame.image.load("assets/bird2.png")),
+    pygame.transform.scale2x(pygame.image.load("assets/bird3.png")),
 ]
 
 pygame.font.init()
